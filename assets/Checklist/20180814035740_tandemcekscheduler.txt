@@ -1,0 +1,11 @@
+Jika Scheduler berjalan normal, di disk  : $DATA1.BACKUP akan ada file yang namanya :  
+- DYYMMDDA
+- DYYMMDDB
+- WKYYMMX1
+- WKYYMMX2
+- MYYMM03A
+- MYYMM03B
+- SYYMM03A
+- SYYMM03B
+- OYYMM03A
+- OYYMM03B

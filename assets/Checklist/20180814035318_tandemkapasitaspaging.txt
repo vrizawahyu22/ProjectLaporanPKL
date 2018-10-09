@@ -1,0 +1,4 @@
+Free Paging CPU 0 > 32768
+Free Paging CPU 1 > 32768
+Free Paging CPU 2 > 32768
+Free Paging CPU 3 > 32768

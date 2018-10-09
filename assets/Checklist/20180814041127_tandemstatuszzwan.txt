@@ -1,0 +1,8 @@
+TARGET STATUS
++ $ZZWAN.#S111                    
++ $ZZWAN.#S112 
++ $ZZWAN.#S113
++ $ZZWAN.#S114
++ $ZZWAN.#S115
+- Subcomponent State harus OK
+- SCF State harus Started         

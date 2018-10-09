@@ -1,0 +1,14 @@
+LINE, STATION, PROCESS
+- Status ALL Process
+- Status ALL Station
+- Status ALL Line
+- Status koneksi : 
+UP, LOGON, TRANFIC
+
+TARGET STATUS
+- Seluruh Process statusnya aktif (started)
+- Seluruh Line dan Station statusnya aktif (started / starting) tidak ada yang Abnormal
+- Status koneksi per Station yang started : 
+1. UP : Y
+2. LOGON : Y
+3. TRANFIC : Y

@@ -1,0 +1,14 @@
+Harddisk Tandem
+Dari console 198.11.3.211
+
+TARGET STATUS
++ $DATA3-P & $DATA3-M      
++ $D0103-P & $D0103-M      
++ $DATA1-P & $DATA1-M      
++ $DATA2-P & $DATA2-M      
++ $SYSTEM-P & $SYSTEM-M    
++ $DSMSCM-P & $DSMSCM-M    
++ $AUDIT-P & $AUDIT-M      
++ $D0117-P & $D0117-M      
+- Service State harus OK
+- Power State   harus OK

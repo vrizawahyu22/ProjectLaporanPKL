@@ -1,0 +1,5 @@
+TARGET STATUS
++ PMCU.GRP.MOD-1.SLOT-21 
++ PMCU.GRP.MOD-1.SLOT-22 
+- Service State harus OK
+- Power State   harus OK

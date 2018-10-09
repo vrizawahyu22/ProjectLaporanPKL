@@ -1,0 +1,8 @@
+- AUTH
+- SETL
+- EXTR
+- REFR
+- RAM 
+
+Target Status:
+Seluruh process AUTH, SETL, EXTR, REFR, RAM aktif (started)

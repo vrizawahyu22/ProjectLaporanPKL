@@ -1,0 +1,4 @@
+TARGET STATUS
+$T0155                     
+- Service State harus OK
+- SCF State harus UP    

@@ -1,0 +1,10 @@
+-    CPU 00      
+-    CPU 01
+
+Target Status
+CPU 00 Usage < 50 %  
+CPU 01 Usage < 50 % 
+CPU 02 Usage < 50 % 
+CPU 03 Usage < 50 % 
+CPU 00 & CPU 01  
+IO RATE BALANCE  

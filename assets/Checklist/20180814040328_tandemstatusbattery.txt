@@ -1,0 +1,4 @@
+TARGET STATUS
++ BATT.GRP.MOD-1.SLOT-23   
++ BATT.GRP.MOD-1.SLOT-28   
+- Service State harus OK

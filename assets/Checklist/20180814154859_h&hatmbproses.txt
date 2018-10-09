@@ -1,0 +1,124 @@
+H2H ATM BERSAMA & H2H FRONT END
+
+Proses
+NAMA ---------------- PROSES
+
+ACEH ---------------- P1A^BIC-SV-ACEH
+AGRO ---------------- P1A^BIC-TW-AGRO
+AMRO ---------------- P1A^BIC-SN-AMRO
+ANZ ----------------- P1A^BIC-US-ANZ
+	
+ARTOS --------------- P1A^BIC-TZ-ARTOS
+ALTO ---------------- P1A^AUTH-ALTO
+BALI ---------------- P1A^BIC-TG-BALI
+BER ----------------- P1A^BIC-VK-BER
+BENGKULU ------------ P1A^BIC-TK-BKULU
+BII	----------------- P1A^BIC-SF-BII
+BJB SYARIAH --------- P1A^BIC-UX-BJBS
+BKE	----------------- P1A^BIC-UN-BKE
+BPR EKA	------------- P1A^BIC-VP-BPEK
+
+BNI ACQ	------------- P1A^BIC-SC-BNI
+BNI ACQ ------------- P1A^BIC-VR-BNI
+BNI ACQ	------------- P1A^BIC-VS-BNI
+BNI ISS	------------- P1A^BIC-VG-BNI
+BNP	----------------- P1A^BIC-TM-BNP
+BOC	----------------- P1A^BIC-SO-BOC
+BRI ACQ	------------- P1A^BIC-VE-BRI
+BRI ACQ ------------- P1A^BIC-SA-BRI
+BRI ACQ1 ------------ P1A^BIC-VA-BRI
+BRI ACQ2 ------------ P1A^BIC-VB-BRI
+BRI ACQ3 ------------ P1A^BIC-VC-BRI
+BRI ACQ4 ------------ P1A^BIC-VD-BRI
+BRI ACQ5 ------------ P1A^BIC-VT-BRI
+BRI ACQ6 ------------ P1A^BIC-VO-BRI
+BRI ISS	------------- P1A^BIC-UT-BRI2
+BRI ISS ------------- P1A^BIC-UT-BRI2
+BRI SYARIAH --------- P1A^BIC-UW-BRIS
+BSM	----------------- P1A^BIC-TU-BSM
+BSMI ---------------- P1A^BIC-TX-BSMI
+BTN	----------------- P1A^BIC-UO-BTN
+BTPN ---------------- P1A^BIC-UI-BTPN
+BUANA --------------- P1A^BIC-SJ-BUANA
+BUKOPIN	------------- P1A^BIC-TT-BKPIN
+BUKOPIN ------------- P1A^BIC-VQ-BKPIN
+BUMIPUTRA ----------- P1A^BIC-TV-BP
+BPRKS --------------- P1A^BIC-VL-BPKS
+CAPITAL ------------- P1A^BIC-UH-CAPTL
+CITIBANK ------------ P1A^BIC-UR-CITI
+COMONWEALTH --------- P1A^BIC-UC-COMW
+DANAMON	------------- P1A^BIC-SD-DNMON
+DBS	----------------- P1A^BIC-VH-DBS
+	
+DIY	----------------- P1A^BIC-SS-DIY
+DKI	----------------- P1A^BIC-SR-DKI
+DOMPETKU INAFBAT ---- P1A^BIC-VZ-DPTQ
+PUNDI --------------- P1A^BIC-UB-BEI
+FEOP ---------------- P1A^BIC-UY-FEOP
+FEOP2 --------------- P1A^BIC-VF-FEOP2
+FEOP3 --------------- P1A^BIC-VM-FEOP3
+GANESHA ------------- P1A^BIC-TQ-GANES
+HSBC ---------------- P1A^BIC-UF-HSBC
+	
+INA	----------------- P1A^BIC-TY-INA
+INDEX --------------- P1A^BIC-UP-INDEX
+INTERKONEKSI ALTO --- P1A^BIC-WB-ALTO
+INTERKONEKSI PRIMA -- P1A^BIC-WA-PRIMA
+JABAR --------------- P1A^BIC-SQ-JABAR
+JAMBI --------------- P1A^BIC-SU-JAMBI
+JATENG -------------- P1A^BIC-UE-JTENG
+JATIM --------------- P1A^BIC-ST-JATIM
+JCB	----------------- P1A^BIC-VN-JCB
+KALBAR -------------- P1A^BIC-UL-KLBAR
+KALSEL -------------- P1A^BIC-TA-KLSEL
+KALTENG ------------- P1A^BIC-TC-KLTNG
+KALTIM -------------- P1A^BIC-TB-KLTIM
+KEMITRAAN AJ -------- P1A^BIC-VX-MTRA
+KESAWAN	------------- P1A^BIC-UJ-KSWAN
+LAMPUNG	------------- P1A^BIC-SZ-LAMPG
+LEMBAGA SELAIN BANK - P1A^BIC-VV-LSBN
+MALUKU -------------- P1A^BIC-TI-MLUKU
+Mandiri	------------- P1A^BIC-SB-MDIRI
+		
+MATM ---------------- P1A^BIC-UM-MATM
+	
+MAYAPADA ------------ P1A^BIC-SP-MYPD
+	
+MAYORA -------------- P1A^BIC-UA-MYORA
+MEGA ---------------- P1A^BIC-TS-MEGA
+MEPS ---------------- P1A^BIC-UD-MEPS
+MESTIKA ------------- P1A^BIC-TP-BMD
+MUAMALAT ------------ P1A^BIC-TO-BMI
+MUTIARA	------------- P1A^BIC-UU-CTURY
+NOBU ---------------- P1A^BIC-VI-NOBU
+NAGARI -------------- P1A^BIC-SX-NAGRI
+NIAGA --------------- P1A^BIC-UG-NIAGA
+NISP ---------------- P1A^BIC-SL-NISP
+NTB	----------------- P1A^BIC-TF-NTB
+NTT	----------------- P1A^BIC-TH-NTT
+ON2	----------------- P1A^BIC-SH-R330
+ON2	----------------- P1A^BIC-SH-R331
+ON2	----------------- P1A^BIC-SH-R332
+ON2	----------------- P1A^BIC-SH-R333
+PANIN --------------- P1A^BIC-SG-PANIN
+PANIN SYARIAH ------- P1A^BIC-VU-PNINS
+PAPUA --------------- P1A^BIC-TJ-PAPUA
+PERMATA	------------- P1A^BIC-SE-PMATA
+	
+	
+RABO ---------------- P1A^BIC-UZ-RABO
+REMITTANCE ---------- P1A^BIC-UV-AJRMT
+RIAU ---------------- P1A^BIC-SY-RIAU
+SAUDARA	------------- P1A^BIC-TR-HS06
+SCB	----------------- P1A^BIC-SM-SCB
+SIMAS --------------- P1A^BIC-UQ-SIMAS
+SULSEL -------------- P1A^BIC-TD-SLSEL
+SULTENG ------------- P1A^BIC-SI-SULTG
+SULTRA -------------- P1A^BIC-TL-SLTRA
+SULTRA -------------- P1A^BIC-VY-SLTRA
+SULUT --------------- P1A^BIC-TE-SULUT
+SUMSEL -------------- P1A^BIC-UK-SMSEL
+SUMUT --------------- P1A^BIC-SW-SUMUT
+SWADESI ------------- P1A^BIC-TN-SWDSI
+Telkomsel (TCASH) --- P1A^BIC-VJ-TCASH
+WOORI --------------- P1A^BIC-VW-WORI

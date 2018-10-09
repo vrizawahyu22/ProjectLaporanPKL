@@ -1,0 +1,10 @@
+TARGET STATUS
++ E4SA.GRP.MOD-1.SLOT-53        
+- $ZZLAN.E0153.0       
+- $ZZLAN.E0153.1       
++ E4SA.GRP.MOD-1.SLOT-54        
+- $ZZLAN.E0154.0       
+- $ZZLAN.E0154.1       
+- Service State harus OK     
+- Subcomponent State harus OK
+- SCF State harus Started    

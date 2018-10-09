@@ -1,0 +1,8 @@
+TARGET STATUS
+ + PMF2.GRP.MOD-1.SLOT-50    
+ - PROCESSOR 0     
+ - $ZZLAN          
+ + PMF2.GRP.MOD-1.SLOT-55    
+ - PROCESSOR 0     
+ - $ZZLAN          
+ - Service State harus OK

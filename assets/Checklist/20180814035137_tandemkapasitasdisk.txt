@@ -1,0 +1,14 @@
+
+- $AUDIT ( 36.099 MB ) TARGET STATUS : Free Disk  $AUDIT  > 20 % 
+- $D0103 ( 36.099 MB ) TARGET STATUS : Free Disk  $D0103  > 15 % 
+- $D0117 ( 36.099 MB ) TARGET STATUS : Free Disk  $D0117  > 15 % 
+- $DATA1 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA1  > 15 % 
+- $DATA2 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA2  > 15 % 
+- $DATA3 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA3  > 15 % 
+- $DATA4 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA4  > 15 % 
+- $DATA5 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA5  > 15 % 
+- $DATA6 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA6  > 15 % 
+- $DATA7 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA7  > 15 % 
+- $DATA8 ( 36.099 MB ) TARGET STATUS : Free Disk  $DATA8  > 15 % 
+- $DSMSCM ( 36.099 MB ) TARGET STATUS : Free Disk  $DSMSCM  > 15 %
+- $SYSTEM ( 36.099 MB ) TARGET STATUS : Free Disk  $SYSTEM  > 20 %
